@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=https://sso.capgemini.com/authent/authent_form.asp
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://coconet.capgemini.com/
+IDList=
+IconFile=https://sso.capgemini.com/Spade_blue.ico
+IconIndex=1
+HotKey=0

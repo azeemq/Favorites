@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://owa.postoffice.net/owa/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://owa.postoffice.net/owa/
+IDList=
+IconFile=https://owa.postoffice.net/owa/14.2.318.4/themes/resources/favicon.ico
+IconIndex=1
